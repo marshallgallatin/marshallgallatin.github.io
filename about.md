@@ -8,4 +8,4 @@ I'm a student in Glen Downing's Object-Oriented Programming class ([CS 371p](htt
 
 ### Contact me
 
-[marshallgallatin@gmail.com](marshallgallatin@gmail.com)
+[marshallgallatin@gmail.com](mailto:marshallgallatin@gmail.com)
