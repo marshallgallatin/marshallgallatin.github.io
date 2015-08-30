@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a student in Glen Downing's Object-Oriented Programming class ([CS 371p](http://www.cs.utexas.edu/users/downing/cs371p/index.html))
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marshallgallatin@gmail.com](marshallgallatin@gmail.com)
