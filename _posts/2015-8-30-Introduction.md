@@ -7,7 +7,7 @@ title: Introduction
 
 First off, the purpose of starting this blog is entirely to get 10 points of extra credit for my CS 371p class.  I feel like I should be upfront about this fact.  I guess I'm a little skeptical of the return on investment that this blog will have, but I am willing to try, maybe I'll discover that I'm wrong (which happens sometimes).
 
-Secondly, my perspective on this class is going to be slightly different from many of the other students in the class.  I work full time at National Instruments, and I use C++ on an almost daily basis (among many other languages).  I'm worried that I'll slip into the "oh I know this already" mentality and not give this class the effort it deserves.   
+Secondly, my perspective on this class is going to be slightly different from many of the other students in the class.  I work full time at National Instruments, and have some C++ experience.  I'm worried that I'll slip into the "oh I know this already" mentality and not give this class the effort it deserves.   
 
 We've only had two classes so far, theres not much to comment on there, but I find the 50 minute classes exceedingly short.  I guess I haven't had a short class in a while, it seems like we just get going good and class is up.  I've had Professor Downing before, both at UT a very, very, long time ago, and a class he taught at NI, so I think I know what to expect.  I enjoy it when professors treat the students like adults and not children - hand holding in college courses annoys me.  I find Downing's Socratic teaching style interesting, it keeps you engaged in anticipation of getting called on.
 
@@ -15,7 +15,7 @@ Even though I'm skeptical of the value of the blog, I do feel like I've already 
 
 One of the things that I always find interesting is the difficulty other students seem to have when setting up the build toolchain for a new class.  Maybe this is where experience does me a favor, I'm just always surprised that CS students can't figure out how to Google for the answer.  It takes all my strength not to post [lmgtfy](http://www.lmgtfy.com/?q=How+to+google) links in every thread on piazza.  The ability to research and find the answer yourself is a valuable skill in the workplace.
 
-I'm really glad we're using Google Test, we use it at work and the framework is pretty awesome.  I can't wait to bust out the TEST_P tests.  As someone who works in the industry, I see what Downing is doing requiring the use of these build tools.  We use most of these kinds of tools at work every day, and while it may be overkill for a small object-oriented programming class, it is definitely going to be a valuable experience in the long run.  I'm looking forward to figuring out the TravisCI stuff when it comes up.
+I'm really glad we're using Google Test, the framework is pretty awesome.  I can't wait to bust out the TEST_P tests.  As someone who works in the industry, I see what Downing is doing requiring the use of these build tools.  We use most of these kinds of tools at work every day, and while it may be overkill for a small object-oriented programming class, it is definitely going to be a valuable experience in the long run.  I'm looking forward to figuring out the TravisCI stuff when it comes up.
 
 ### Protip of the week ###
 
