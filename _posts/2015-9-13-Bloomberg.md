@@ -19,38 +19,39 @@ I've read several of the other student's blogs in this class and a bunch of peop
 
 ### The inline method:
 
-	This is [an inline example](http://cs.utexas.edu).
+	This is [an inline example](http://www.cs.utexas.edu).
 
-Which produces: This is [an inline example](http://cs.utexas.edu).
+Which produces: This is [an inline example](http://www.cs.utexas.edu).
 
 ### The reference method:
 
 	This is [a reference example][cslink].
 	
-	[cslink]: http://cs.utexas.edu
+	[cslink]: http://www.cs.utexas.edu
 
 Which produces: This is [a reference example][cslink].
 
-Note that the '[cslink]: http://www.cs.utexas.edu' part can go anywhere in the document.
+Note that the line containing the actual link can go anywhere in the document.
 
 ### The Automatic method:
 
-	This is an example link to <http://cs.utexas.edu>
+	This is an example link to <http://www.cs.utexas.edu>
 
-Which produces: This is an example link to <http://cs.utexas.edu>
+Which produces: This is an example link to <http://www.cs.utexas.edu>
 
 Notice that this is probably the simplest method and displays the full link.  Just surround your link with < > people!
 
 ### The HTML method:
-Theres actually a fourth method, Markown is tollerant of straight up html as well:
+Theres actually a fourth method, Markown is tolerant of straight up html as well:
 
-	This is <a href="http://cs.utexas.edu">a html link<a>.
+	This is <a href="http://www.cs.utexas.edu">a html link<a>.
 
-Which produces: This is <a href="http://cs.utexas.edu">a html link</a>.
+Which produces: This is <a href="http://www.cs.utexas.edu">a html link</a>.
 
 Markdown syntax is so simple, there really shouldn't be any excuse for not having working links. Go check out the creator's syntax document over at [Daring Fireball][mdstx] if you don't believe me.
 
-[cslink]: http://cs.utexas.edu
-[mdstx]: http://daringfireball.net/projects/markdown/syntax
+Feel free to check out this [blog post's raw Markdown](https://raw.githubusercontent.com/marshallgallatin/marshallgallatin.github.io/master/_posts/2015-9-13-Bloomberg.md) if you want to see it in action.
 
+[cslink]: http://www.cs.utexas.edu
+[mdstx]: http://daringfireball.net/projects/markdown/syntax
 
