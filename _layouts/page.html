@@ -1,12 +1,44 @@
 ---
 layout: default
 ---
+<div class="post">
 
-<article class="page">
-
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
+  {% if page.banner_image %}
+  <div class="banner-image">
+    <img 
+        src="{{ "/assets/images/" | append: page.banner_image | prepend: site.baseurl | prepend: site.url }}" 
+        alt="{{ page.banner_image_alt }}">
   </div>
-</article>
+  {% endif %}
+  
+  {% if page.banner_cc_license %}
+  <div class="banner-license">
+  <a
+    rel='license' 
+    href='{{ "http://creativecommons.org/licenses/" | append: page.banner_cc_license | append: "/" | append: page.banner_cc_licenseVersion}}' 
+    target='_blank'>
+    <img 
+      src='{{ "http://i.creativecommons.org/l/" | append: page.banner_cc_license | append: "/" | append: page.banner_cc_licenseVersion  | append: "/80x15.png" }}' 
+      border='0' align='left'>
+    </a>
+    &nbsp; &nbsp;by&nbsp;
+    <a 
+      xmlns:cc='http://creativecommons.org/ns#' 
+      rel='cc:attributionURL' 
+      property='cc:attributionName' 
+      href='{{ page.banner_cc_attributionURL }}' 
+      target='_blank'>
+      {{ page.banner_cc_attributionName }}
+    </a>
+  </div>
+  {% endif %}
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>

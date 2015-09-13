@@ -3,8 +3,6 @@ layout: post
 title: Introduction
 ---
 
-## Where to begin, where to begin.... ##
-
 First off, the purpose of starting this blog is entirely to get 10 points of extra credit for my CS 371p class.  I feel like I should be upfront about this fact.  I guess I'm a little skeptical of the return on investment that this blog will have, but I am willing to try, maybe I'll discover that I'm wrong (which happens sometimes).
 
 Secondly, my perspective on this class is going to be slightly different from many of the other students in the class.  I work full time at National Instruments, and have some C++ experience.  I'm worried that I'll slip into the "oh I know this already" mentality and not give this class the effort it deserves.   

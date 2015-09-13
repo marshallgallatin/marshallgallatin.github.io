@@ -3,8 +3,6 @@ layout: post
 title: Lotza Collatza!
 ---
 
-## 2n + 1... no wait
-
 This week we received the first assignment.  Admittedly, I have implemented this particular assignment before, so there isn't anything really suprising.  I'm looking forward to implementing the cached version though, theres so many different things to try and I've been thinking that I can implement it even better than last time.
 
 To be honest, class this week was kind of boring to me.  Monday was introduction to the problem, Wednesday was about mathematical tricks to reduce the cycle count, and Friday was about caches and possible cache implementations.
