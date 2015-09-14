@@ -58,3 +58,7 @@ exclude:
 sass:
   sass_dir: assets/css/_sass
   style: :compressed
+  
+# enables creating a sitemap.xml file
+gems:
+  - jekyll-sitemap
