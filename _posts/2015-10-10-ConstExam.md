@@ -3,7 +3,7 @@ layout: post
 title: Const Exam
 ---
 
-I'm a little lost about what to write about this week.  We only had a couple classes this week, because we had our first test on Thursday night.  We discussed const pointers and references this week, which is really pretty straight forward once you memorize how the const pointer syntax works.  I thought the test was pretty straight forward, but I'm not a huge fan of tests that expect us to write code by hand.  I feel like its a little artificial, I know I made a mistake on the test, which had I been given a compiler and 3 minutes to write tests, then I wouldn't have made the mistake.  Oh well, thats life.  Nothing on the test was overly difficult, and I think anyone who paid attention should have done well.
+I'm a little lost about what to write about this week.  We only had a couple classes this week, because we had our first test on Thursday night.  We discussed const pointers and references this week, which is really pretty easy once you memorize how the const pointer syntax works.  I thought the test was pretty straight forward, but I'm not a huge fan of tests that expect us to write code by hand.  I feel like its a little artificial, I know I made a mistake on the test, which had I been given a compiler and 3 minutes to write tests, then I wouldn't have made the mistake.  Oh well, thats life.  Nothing on the test was overly difficult, and I think anyone who paid attention should have done well.
 
 The next project was posted today.  I glanced at the page and the code, and I haven't delved deeply into it, but it looks like it is going to be the most difficult project to date.  This time there is not an online judge, so there is no third-party confirmation of correctness.
 
