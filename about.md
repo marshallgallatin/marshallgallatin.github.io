@@ -9,7 +9,9 @@ banner_cc_licenseVersion: 2.0
 banner_cc_attributionName: Jim Nix / Nomadic Pursuits
 banner_cc_attributionURL: https://www.flickr.com/people/jimnix/
 ---
-I'm a student in Glenn Downing's Object-Oriented Programming class ([CS 371p](http://www.cs.utexas.edu/users/downing/cs371p/index.html))
+I'm a student in Glenn Downing's Software Engineering class ([CS 373](https://www.cs.utexas.edu/users/downing/cs373/index.html))
+
+Last semester I was student in Glenn Downing's Object-Oriented Programming class ([CS 371p](http://www.cs.utexas.edu/users/downing/cs371p/index.html))
 
 ### Contact me
 
