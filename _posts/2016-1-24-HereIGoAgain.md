@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here I Go Again
-banner_video: '<iframe width="854" height="480" src="https://www.youtube.com/embed/sTd8XtZGK_8" frameborder="0" allowfullscreen></iframe>'
+banner_video: '<iframe width="854" height="240" src="https://www.youtube.com/embed/sTd8XtZGK_8" frameborder="0" allowfullscreen></iframe>'
 ---
 
 Well, class finally started up again.  Feels like its been a year since I've been to class, but its only been a month.  I'm looking forward to this software engineering class.
