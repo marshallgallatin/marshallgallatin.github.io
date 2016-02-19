@@ -19,7 +19,7 @@ I'm really glad we're using Google Test, the framework is pretty awesome.  I can
 
 I've read a few of the other blogs that students have posted for this class, and this is inspired by a rant in a different [blog](http://lkolbly.github.io/cs371p-web/2015/08/30/first-post.html).
 
-How to only include a header file once in C/C++:
+How to only include a header file once in C/C++
 There are two common methods, [include guards](https://en.wikipedia.org/wiki/Include_guard) and [pragma once](https://en.wikipedia.org/wiki/Pragma_once).  Include guards are common, and the older method for handling a header file being included more than once.  Pragma once is much cleaner and simpler, but it is less standard and only recently supported by some compilers.
 #### Include guards ####
     #ifndef __NAME_OF_HEADER_FILE_H_
