@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LeetCode Recursive Problem
-yml date: 2024-07-30 14:59:39 -06:00
+date: 2024-07-30 14:59:39 -06:00
 ---
 
 I went ahead and did a second LeetCode problem today, specifically the [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) problem.  Immediately this sounded like a recursion problem, and it has been a minute since I did a recursive problem like this, so figured I'd take a stab at it.  Here is my first submission:
