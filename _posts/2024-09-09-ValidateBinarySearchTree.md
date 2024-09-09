@@ -3,7 +3,7 @@ layout: post
 title: Binary Search Tree
 ---
 
-I've been a little slack doing these problems, but I started this one, and it took me a minute to figure it out: https://leetcode.com/problems/validate-binary-search-tree/
+I've been a little slack doing these problems, but I started this one, and it took me a minute to figure it out: [https://leetcode.com/problems/validate-binary-search-tree/](https://leetcode.com/problems/validate-binary-search-tree/)
 
 Here's my solution, its nothing crazy and I don't see a bunch of room for improvement:
 ```c++
