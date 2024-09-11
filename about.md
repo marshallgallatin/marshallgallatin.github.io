@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a software engineer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Maybe someday I'll include more information, for now I'm comfortable with this.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[LinkedIn](https://www.linkedin.com/in/marshallgallatin)
+[GitHub](https://github.com/marshallgallatin)
