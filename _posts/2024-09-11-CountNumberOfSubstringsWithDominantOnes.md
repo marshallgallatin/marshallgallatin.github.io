@@ -288,4 +288,4 @@ For the record, the case that exceeds the time limit is this case:
 */
 ```
 
-For the moment I'm going to put this problem on a shelf.  I do think there is a more optimal solution, I think mine is O(N^3) complexityh but I think there there is probably more optimized soution.  I'm wondering if there is a way where I could store a running total of the number of ones up until that point in the string somehow, and maybe be able to calculate the answer using that.  This isn't a trivial problem, I can see why it has such a low acceptance rate (~15%, the lowest acceptance rate of the medium problems on leetcode).
+For the moment I'm going to put this problem on a shelf.  I do think there is a more optimal solution, I think mine is O(N^3) complexity but I think there there is probably more optimized soution.  I'm wondering if there is a way where I could store a running total of the number of ones up until that point in the string somehow, and maybe be able to calculate the answer using that.  This isn't a trivial problem, I can see why it has such a low acceptance rate (~15%, the lowest acceptance rate of the medium problems on leetcode).
