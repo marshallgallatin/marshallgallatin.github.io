@@ -40,6 +40,6 @@ public:
 };
 ```
 
-It took me a while to boil the problem down.  The naive solution is that the node's is just between the left and the right, when in reality the node's value needs to be between some min and max based on the node's location in the tree.
+It took me a while to boil the problem down.  The naive solution is that the node's value is just between the left and the right, when in reality the node's value needs to be between some min and max based on the node's location in the tree.
 
 It helped for me to write down the values on paper before coding the solution.
