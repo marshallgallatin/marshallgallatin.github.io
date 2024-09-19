@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Search in Rotated Sorted Array
-date: 2024-09-19 12:12:00 -06:00
+date: 2024-09-19 12:12:00 -05:00
 ---
 
 The next problem I decided to do was [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/).  I think my solution is pretty unique, and probably not the most optimized, but it should be 0(log n) complexity.  Since I just did [Find Mimimum in Rotated Sorted Array](/MinimumInRotatedSortedArray/), I immediately thought hey, if I can find the minimum, then I just have to search either the left or right of that to find it, so thats what I did:
