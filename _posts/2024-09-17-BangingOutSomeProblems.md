@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Banging out a few problems
-yml date: 2024-09-17 14:47:00 -06:00
+date: 2024-09-17 14:47:00 -06:00
 ---
 
 I'm working on a few different problems right now, figured I'd just make one post and post a few solutions here.
